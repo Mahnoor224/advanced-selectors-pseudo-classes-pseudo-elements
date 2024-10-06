@@ -28,10 +28,10 @@ p:not(:first-of-type){
     text-decoration:underline;
 }
 ul li::before{
-    contect:"🚀";
+    content:"🚀";
 }
 a::after{
-    contect:"🖊️";
+    content:"🖊️";
 }
 p::first-letter{
     font-size:200%;
